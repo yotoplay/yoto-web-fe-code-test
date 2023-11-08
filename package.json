@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start & npm run json:server",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "CI=true react-scripts test --watchAll=false",
     "eject": "react-scripts eject",
     "json:server": "json-server --watch ./data/products.json --port 3030",
     "prepare": "husky install"
