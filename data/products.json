@@ -24,7 +24,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 103
     },
     {
       "id": 1,
@@ -50,7 +51,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 944
     },
     {
       "id": 2,
@@ -76,7 +78,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 788
     },
     {
       "id": 3,
@@ -107,7 +110,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 33
     },
     {
       "id": 4,
@@ -133,7 +137,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 560
     },
     {
       "id": 5,
@@ -159,7 +164,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 30
     },
     {
       "id": 6,
@@ -185,7 +191,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 164
     },
     {
       "id": 7,
@@ -211,7 +218,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 992
     },
     {
       "id": 8,
@@ -242,7 +250,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 723
     },
     {
       "id": 9,
@@ -268,7 +277,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 788
     },
     {
       "id": 10,
@@ -298,7 +308,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 989
     },
     {
       "id": 11,
@@ -324,7 +335,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 822
     },
     {
       "id": 12,
@@ -350,7 +362,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 402
     },
     {
       "id": 13,
@@ -376,7 +389,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 355
     },
     {
       "id": 14,
@@ -402,7 +416,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 35
     },
     {
       "id": 15,
@@ -428,7 +443,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 315
     },
     {
       "id": 16,
@@ -454,7 +470,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 401
     },
     {
       "id": 17,
@@ -480,7 +497,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 500
     },
     {
       "id": 18,
@@ -506,7 +524,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 910
     },
     {
       "id": 19,
@@ -532,7 +551,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 385
     },
     {
       "id": 20,
@@ -558,7 +578,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 552
     },
     {
       "id": 21,
@@ -584,7 +605,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 18
     },
     {
       "id": 22,
@@ -610,7 +632,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 523
     },
     {
       "id": 23,
@@ -636,7 +659,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 580
     },
     {
       "id": 24,
@@ -662,7 +686,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 489
     },
     {
       "id": 25,
@@ -688,7 +713,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 104
     },
     {
       "id": 26,
@@ -718,7 +744,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 272
     },
     {
       "id": 27,
@@ -744,7 +771,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 140
     },
     {
       "id": 28,
@@ -770,7 +798,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 465
     },
     {
       "id": 29,
@@ -796,7 +825,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 746
     },
     {
       "id": 30,
@@ -822,7 +852,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 342
     },
     {
       "id": 31,
@@ -848,7 +879,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 461
     },
     {
       "id": 32,
@@ -874,7 +906,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 228
     },
     {
       "id": 33,
@@ -900,7 +933,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 854
     },
     {
       "id": 34,
@@ -926,7 +960,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 759
     },
     {
       "id": 35,
@@ -952,7 +987,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 742
     },
     {
       "id": 36,
@@ -978,7 +1014,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 298
     },
     {
       "id": 37,
@@ -1004,7 +1041,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 841
     },
     {
       "id": 38,
@@ -1030,7 +1068,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 744
     },
     {
       "id": 39,
@@ -1056,7 +1095,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 69
     },
     {
       "id": 40,
@@ -1082,7 +1122,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 812
     },
     {
       "id": 41,
@@ -1108,7 +1149,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 398
     },
     {
       "id": 42,
@@ -1134,7 +1176,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 661
     },
     {
       "id": 43,
@@ -1160,7 +1203,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 500
     },
     {
       "id": 44,
@@ -1190,7 +1234,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 700
     },
     {
       "id": 45,
@@ -1216,7 +1261,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 395
     },
     {
       "id": 46,
@@ -1242,7 +1288,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 748
     },
     {
       "id": 47,
@@ -1268,7 +1315,8 @@
           "src": "https://picsum.photos/1280"
         },
         "alt": null
-      }
+      },
+      "inventory": 294
     }
   ]
 }
